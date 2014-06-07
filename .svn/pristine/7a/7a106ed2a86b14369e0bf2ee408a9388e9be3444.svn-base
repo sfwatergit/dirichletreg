@@ -1,0 +1,64 @@
+body{
+  font-family: Palatino, 'Palatino Linotype', Cambria, Georgia, 'Times New Roman', Times, serif;
+  font-size: 18px;
+  font-weight: normal;
+  font-style: normal;
+  font-variant: normal;
+  text-transform: none;
+  line-height: 3ex;
+  color: #000000;
+  text-decoration: none;
+  margin: 0px;
+  padding: 0px;
+  border: 0px;
+}
+
+a{
+  font-family: Calibri, Verdana, Arial, Helvetica, sans-serif;
+  color: #AA0000;
+}
+
+div#universe{
+  width: 1000px;
+  margin: 100px auto;
+  padding-bottom: 100px;
+  background-image: url("rforge_logo.png");
+  background-repeat: no-repeat;
+  background-position: right bottom;
+}
+
+div.title{
+  font-family: Calibri, Verdana, Arial, Helvetica, sans-serif;
+  font-size: 200%;
+  font-weight: bold;
+  margin: auto;
+}
+
+code{
+  font-family: Consolas, 'Courier New', Courier, monospace;
+  font-size: inherit;
+  text-decoration: none;
+  color: #AA0000;
+}
+
+ul.mainList{
+  list-style-type: square;
+}
+
+ul.mainList li{
+  margin-top:2ex;
+}
+
+ol.bibList{
+  list-style-type: dot;
+}
+
+ol.bibList li{
+  margin-top:1ex;
+}
+
+strong.listheader{
+  font-family: Calibri, Verdana, Arial, Helvetica, sans-serif;
+  font-size: large;
+  font-weight: bold;
+}

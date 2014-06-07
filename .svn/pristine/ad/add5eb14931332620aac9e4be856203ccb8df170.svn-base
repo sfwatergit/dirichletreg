@@ -1,0 +1,11 @@
+@techreport{TR:Maier:2014:DirichletReg:WU,
+       author = {Maier, Marco Johannes},
+        title = {{\textsf{DirichletReg}}: Dirichlet Regression for Compositional Data in {\textsf{R}}},
+         year = {2014},
+         type = {Research Report Series / Department of Statistics and Mathematics},
+       number = {125},
+  institution = {WU Vienna University of Economics and Business},
+      address = {Vienna},
+        month = {January},
+          url = {http://epub.wu.ac.at/4077/}
+}
